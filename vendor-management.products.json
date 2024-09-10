@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66ccbf2da5220ae9c1d9171d"
+  },
+  "productName": "High-Performance Laptop",
+  "description": "A powerful laptop with 16GB RAM, 512GB SSD, and an Intel i7 processor.",
+  "unitPrice": 1500,
+  "vendorId": "66ccbedea5220ae9c1d9171b",
+  "createdBy": {
+    "userId": "64f02a1c2f2b9c40dc1e4c21",
+    "userName": "Admin User"
+  },
+  "createdAt": "2024-08-20T00:00:00Z",
+  "updatedAt": "2024-08-20T00:00:00Z"
+}]

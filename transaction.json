@@ -1,0 +1,17 @@
+{
+  "vendorId": "64f02a1c2f2b9c40dc1e4c1f",
+  "transactionDate": "2024-08-22T00:00:00Z",
+  "transactionType": "Invoice",
+  "amount": 1500.0,
+  "status": "Pending",
+  "paymentMethod": {
+    "methodName": "Bank Transfer",
+    "transactionId": "TXN123456789"
+  },
+  "createdBy": {
+    "userId": "64f02a1c2f2b9c40dc1e4c21",
+    "userName": "Admin User"
+  },
+  "createdAt": "2024-08-22T00:00:00Z",
+  "updatedAt": "2024-08-22T00:00:00Z"
+}

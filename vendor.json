@@ -1,0 +1,41 @@
+{
+  "vendorName": "Tech Supplies Co.",
+  "contactInformation": {
+    "contactPerson": "Alice Johnson",
+    "phone": "555-1234",
+    "email": "alice.johnson@techsupplies.com",
+    "address": {
+      "street": "789 Silicon Ave",
+      "city": "Tech City",
+      "state": "California",
+      "zipCode": "94016",
+      "country": "USA"
+    }
+  },
+  "productsSupplied": [
+    {
+      "productId": "64f02a1c2f2b9c40dc1e4c20",
+      "productName": "High-Performance Laptop",
+      "unitPrice": 1500.0
+    }
+  ],
+  "paymentTerms": "Net 30",
+  "paymentMethods": [
+    {
+      "methodName": "Bank Transfer",
+      "accountDetails": {
+        "bankName": "Tech Bank",
+        "accountNumber": "1234567890",
+        "routingNumber": "0987654321",
+        "currency": "USD"
+      }
+    }
+  ],
+  "status": "Active",
+  "createdBy": {
+    "userId": "64f02a1c2f2b9c40dc1e4c21",
+    "userName": "Admin User"
+  },
+  "createdAt": "2024-08-20T00:00:00Z",
+  "updatedAt": "2024-08-20T00:00:00Z"
+}

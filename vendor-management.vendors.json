@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "66ccbedea5220ae9c1d9171b"
+  },
+  "vendorName": "Tech Supplies Co.",
+  "contactInformation": {
+    "contactPerson": "Alice Johnson",
+    "phone": "555-1234",
+    "email": "alice.johnson@techsupplies.com",
+    "address": {
+      "street": "789 Silicon Ave",
+      "city": "Tech City",
+      "state": "California",
+      "zipCode": "94016",
+      "country": "USA"
+    }
+  },
+  "productsSupplied": [
+    {
+      "productId": "66ccbf2da5220ae9c1d9171d",
+      "productName": "High-Performance Laptop",
+      "unitPrice": 1500
+    }
+  ],
+  "paymentTerms": "Net 30",
+  "paymentMethods": [
+    {
+      "methodName": "Bank Transfer",
+      "accountDetails": {
+        "bankName": "Tech Bank",
+        "accountNumber": "1234567890",
+        "routingNumber": "0987654321",
+        "currency": "USD"
+      }
+    }
+  ],
+  "status": "Active",
+  "createdBy": {
+    "userId": "64f02a1c2f2b9c40dc1e4c21",
+    "userName": "Admin User"
+  },
+  "createdAt": "2024-08-20T00:00:00Z",
+  "updatedAt": "2024-08-20T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "66cdb190027b1e6f75aa934a"
+  },
+  "vendorName": "Global Tech Solutions Updated",
+  "contactInformation": {
+    "contactPerson": "Robert Brown Updated",
+    "phone": "555-9999",
+    "email": "robert.brown.updated@globaltech.com",
+    "address": {
+      "street": "789 Updated Drive",
+      "city": "Innovation City",
+      "state": "Texas",
+      "zipCode": "75002",
+      "country": "USA"
+    }
+  },
+  "productsSupplied": [
+    {
+      "productId": {
+        "$oid": "64f02a1c2f2b9c40dc1e4c25"
+      },
+      "productName": "4K Monitor",
+      "unitPrice": 400,
+      "_id": {
+        "$oid": "66cdb190027b1e6f75aa934b"
+      }
+    }
+  ],
+  "paymentTerms": "Net 60",
+  "paymentMethods": [
+    {
+      "methodName": "Credit Card",
+      "accountDetails": {
+        "bankName": "Global Bank",
+        "accountNumber": "9876543210",
+        "routingNumber": "123456789",
+        "currency": "USD"
+      },
+      "_id": {
+        "$oid": "66cdb190027b1e6f75aa934c"
+      }
+    }
+  ],
+  "status": "Inactive",
+  "createdBy": {
+    "userId": "64f02a1c2f2b9c40dc1e4c26",
+    "userName": "Admin User"
+  },
+  "createdAt": {
+    "$date": "2024-08-27T10:59:28.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  },
+  "__v": 0
+}]
